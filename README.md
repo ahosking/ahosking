@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahosking&layout=compact&theme=onedark)](https://github.com/ahosking)
 
-[![ahosking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f5c31f29-fdd1-4346-b9e6-a82f28f8ca2f&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![ahosking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f5c31f29-fdd1-4346-b9e6-a82f28f8ca2f&theme=onedark)](https://wakatime.com/@f5c31f29-fdd1-4346-b9e6-a82f28f8ca2f)

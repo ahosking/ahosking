@@ -1,4 +1,4 @@
-### Hi there 👋
+[![AHosking's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahosking&count_private=true&show_icons=true&theme=onedark)](https://github.com/ahosking)
 
 <!--
 **ahosking/ahosking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

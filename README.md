@@ -14,4 +14,11 @@
 ```
 
 <!--START_SECTION:waka-->
+
+```text
+Terraform    4 hrs 28 mins   ████████████████████░░░░░   80.48 %
+Markdown     33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+```
+
 <!--END_SECTION:waka-->

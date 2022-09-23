@@ -12,6 +12,9 @@
       B-->D;
       C-->D;
 ```
+-------
+
+📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 

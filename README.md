@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-sh          1 hr 19 mins    █████████████████████░░░░   84.38 %
-Terraform   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+sh          1 hr 3 mins     ████████████████████▒░░░░   81.25 %
+Terraform   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
 ```
 
 <!--END_SECTION:waka-->

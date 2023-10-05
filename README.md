@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   27 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

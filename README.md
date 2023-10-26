@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Objective-C   1 min           █████████████████████░░░░   84.00 %
+Other         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
 ```
 
 <!--END_SECTION:waka-->

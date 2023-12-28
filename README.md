@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   11 mins         █████████████████████▓░░░   86.25 %
-JSON        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

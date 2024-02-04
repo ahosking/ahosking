@@ -19,9 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   32 mins         ███████████████░░░░░░░░░░   60.04 %
-Markdown    13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-CSV         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Terraform   32 mins         █████████████████▓░░░░░░░   70.59 %
+Markdown    13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
 ```
 
 <!--END_SECTION:waka-->

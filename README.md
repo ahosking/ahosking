@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HCL          8 mins          ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Terraform    8 mins          ████████▒░░░░░░░░░░░░░░░░   32.88 %
+Other        7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->

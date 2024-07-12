@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSV   0 secs          █████████████████████████   100.00 %
+PowerShell   16 mins         █████████████████▒░░░░░░░   68.94 %
+Markdown     6 mins          ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->

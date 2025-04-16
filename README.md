@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ASP.NET   17 mins         ██████████████░░░░░░░░░░░   56.32 %
-Prisma    13 mins         ███████████░░░░░░░░░░░░░░   43.68 %
+Prisma   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

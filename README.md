@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Prisma   13 mins         █████████████████████████   100.00 %
+JSON     29 mins         █████████████████▒░░░░░░░   69.30 %
+Prisma   13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 %
 ```
 
 <!--END_SECTION:waka-->

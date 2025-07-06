@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    25 mins         █████████████████▓░░░░░░░   71.31 %
-VB.NET   9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
-VBA      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

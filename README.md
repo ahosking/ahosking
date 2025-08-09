@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ASP.NET   0 secs          █████████████████████████   100.00 %
+Other     20 mins         █████████████████████████   99.93 %
+ASP.NET   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 10 mins    █████████████████████████   99.82 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

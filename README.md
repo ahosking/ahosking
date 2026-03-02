@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Gherkin    9 mins                ████████████▓░░░░░░░░░░░░   50.65 %
+Markdown   6 mins                ████████▒░░░░░░░░░░░░░░░░   33.12 %
+HTML       3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
 ```
 
 <!--END_SECTION:waka-->

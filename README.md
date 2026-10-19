@@ -1,29 +1,27 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahosking.ahosking&color=blue&style=flat-square)
-[![AHosking's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahosking&count_private=true&show_icons=true&theme=onedark&hide_rank=true&include_all_commits=true)](https://github.com/ahosking)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahosking&theme=onedark&hide_border=true)](https://github.com/ahosking)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahosking&layout=compact&theme=onedark)](https://github.com/ahosking)
+# Alexander Hosking
 
-# Don't forget about [mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)!
+Platform and SRE leader in Toronto. I lead the teams that own infrastructure reliability, delivery tooling, and the developer experience that sits on top of them. I work as a hands-on architect: close enough to the systems to have opinions worth having, far enough back to set direction across teams.
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
--------
+### What I work on
 
-📊 **Weekly development breakdown**
+**Platform and reliability.** SRE practice, incident management, SLOs, and the platform product teams build on. A meaningful chunk of my career has been in regulated environments, which sharpens your instincts around tradeoffs, reliability, and what "good enough" actually costs you.
 
-<!--START_SECTION:waka-->
+**Developer Experience.** Turning DX Core 4, DORA, and SPACE into something operational rather than theoretical. That means measurement programs, the tooling and dashboards behind them, and the decisions they should change. Lately it includes rolling out agentic coding tools and measuring whether they actually help.
 
-```txt
-Markdown     6 hrs 16 mins         ███████████████▒░░░░░░░░░   60.78 %
-Dart         2 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-Bash         40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-YAML         40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-```
+**Architecture and standards.** Running architecture review, setting engineering standards, and turning them into paved roads teams choose to use.
 
-<!--END_SECTION:waka-->
+### Health Flare
+
+I founded and lead [Health Flare](https://github.com/Health-Flare), an open-source org building privacy-first health tools for people living with chronic illness and the people who care for them. The rule across every project: no accounts, no cloud by default, no telemetry. What you log stays on your device.
+
+| Project | |
+|---|---|
+| [HealthFlare](https://github.com/Health-Flare/app) | A private health journal for symptoms, vitals, medications, meals, and notes, with PDF and CSV export for appointments. Flutter, shipping on the [App Store](https://apps.apple.com/app/health-flare/id6803123766) and [Google Play](https://play.google.com/store/apps/details?id=org.healthflare.app.healthflare). GPLv3. |
+| [Inner Flare](https://github.com/Health-Flare/InnerFlare) | Period, symptom, and reproductive health tracking under the same no-collection rule. |
+| [Open Health Index](https://openhealthindex.org) | A people-first index of free and open-source health tools. Each listing shows where your data lives, whether you need an account, and how hard it is to set up. |
+
+I run it the way I'd want any product org run: acceptance criteria in Gherkin, CI on every change, automated dependency management, and automated releases to the App Store and Google Play.
+
+### Elsewhere
+
+[healthflare.org](https://healthflare.org) · [coffeeordeath.dev](https://coffeeordeath.dev)
